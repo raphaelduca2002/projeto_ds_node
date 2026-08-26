@@ -10,10 +10,3 @@ CREATE TABLE usuarios (
     senha VARCHAR(10) 
 );
 --
-INSERT INTO usuarios VALUES (
-NULL, 'Raphael', 'raph43l', '123456'
-);
---
-SELECT * 
-FROM usuarios;
---
