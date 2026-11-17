@@ -21,7 +21,7 @@ app.use(
 
 // Rotas dos usuários
 const usuarioRoutes =
-    require("../routes/UsuarioRoute");
+    require("../routes/UsuarioRoutes");
 
 app.use(
     "/api",
